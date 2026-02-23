@@ -1,0 +1,34 @@
+# Ambiente Virtual (Não enviar para o Git pois é pesado e específico do teu PC)
+venv/
+.venv/
+env/
+.env
+
+# Configurações Sensíveis (Contém o Token do Telegram e Senhas do Banco)
+config.py
+
+# Ficheiros temporários e cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs e ficheiros de sistema
+*.log
+.DS_Store
+Thumbs.db
+
+# IDEs (Configurações do teu VS Code ou PyCharm)
+.vscode/
+.idea/
+
+.ipynb_checkpoints/
+*.ipynb
+
+Notebooks/
+version1_bot/
+
+
+Bot_Auditoria/
+version1_bot/

@@ -51,7 +51,7 @@ Arquivos `.pbix` disponíveis para visualização.
 ## 🛠️ Stack Técnica
 
 - SQL (queries complexas, extração de métricas e validação)
-- Python (Pandas, Requests, Automação)
+- Python (Pandas, Requests, Automação,SKlearn)
 - Power BI
 - Git & GitHub
 - Modelagem de Dados
@@ -70,4 +70,5 @@ Desenvolver soluções orientadas a dados que garantam:
 
 ## 📬 Contato
 
-LinkedIn: (coloque seu link aqui)
+www.linkedin.com/in/heitorbcosta
+(81) 99736-7894
